@@ -1,0 +1,74 @@
+---
+title             : "Using Cognitive Misattribution to Study Spontaneous Hostile Inferences"
+shorttitle        : "Spontaneous Hostile Attributions"
+
+author: 
+  - name          : "Randy J. McCarthy"
+    affiliation   : "1"
+    corresponding : yes    # Define only one corresponding author
+    address       : "125 President's BLVD, Center for the Study of Family Violence and Sexual Assault, Northern Illinois University, DeKalb, IL 60115"
+    email         : "rmccarthy3@niu.edu"
+  - name          : "Randy J. McCarthy"
+    affiliation   : "1"
+
+affiliation:
+  - id            : "1"
+    institution   : "Northern Illinois University"
+
+
+author_note: >
+  Complete departmental affiliations for each author (note the indentation, if you start a new paragraph).
+
+  Enter author note here.
+
+abstract: >
+  Enter abstract here (note the indentation, if you start a new paragraph).
+  
+keywords          : "keywords"
+wordcount         : "X"
+
+bibliography      : ["r-references.bib"]
+
+figsintext        : no
+figurelist        : no
+tablelist         : no
+footnotelist      : no
+lineno            : yes
+
+lang              : "english"
+class             : "man"
+output            : papaja::apa6_pdf
+---
+
+```{r include = FALSE}
+library("papaja")
+```
+
+
+# Methods
+We report how we determined our sample size, all data exclusions (if any), all manipulations, and all measures in the study. <!-- 21-word solution (Simmons, Nelson & Simonsohn, 2012; retrieved from http://ssrn.com/abstract=2160588) -->
+
+## Participants
+
+## Material
+
+## Procedure
+
+## Data analysis
+We used `r cite_r("r-references.bib")` for all our analyses.
+
+
+# Results
+
+# Discussion
+
+
+\newpage
+
+# References
+```{r create_r-references}
+r_refs(file = "r-references.bib")
+```
+
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
