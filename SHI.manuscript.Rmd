@@ -1,0 +1,150 @@
+---
+title             : "Using Cognitive Misattribution to Study Spontaneous Hostile Inferences"
+shorttitle        : "Spontaneous Hostile Attributions"
+
+author: 
+  - name          : "Randy J. McCarthy"
+    affiliation   : "1"
+    corresponding : yes    # Define only one corresponding author
+    address       : "125 President's BLVD, Center for the Study of Family Violence and Sexual Assault, Northern Illinois University, DeKalb, IL 60115"
+    email         : "rmccarthy3@niu.edu"
+  - name          : "Randy J. McCarthy"
+    affiliation   : "1"
+
+affiliation:
+  - id            : "1"
+    institution   : "Northern Illinois University"
+
+
+author_note: >
+  Complete departmental affiliations for each author (note the indentation, if you start a new paragraph).
+
+  Enter author note here.
+
+abstract: >
+  Individuals often spontaneously form hostile inferences form hostile inferences from observing others’ hostile behaviors.  The current research uses a novel approach to examining these spontaneous hostile inferences.  Specifically, the current study demonstrates that once perceivers form a hostile inference about another individual, the mere presence of the individual about whom the inference is formed is sufficient to make accessible the hostile inference.  This activation is evident by the extent to which the activation of hostility becomes misattributed to ambiguous stimuli.    
+  
+keywords          : "spontaneous trait inferences, hostile attributions, trait aggression, aggression"
+wordcount         : "X"
+
+bibliography      : ["r-references.bib"]
+
+figsintext        : no
+figurelist        : no
+tablelist         : no
+footnotelist      : no
+lineno            : yes
+
+lang              : "english"
+class             : "man"
+output            : papaja::apa6_pdf
+---
+
+```{r include = FALSE}
+library("papaja")
+```
+
+
+
+
+Perceivers often spontaneously form inferences about others dispositions while encoding those others’ behaviors (e.g., Carlston & Skowronski, 1994; Winter & Uleman, 1984).  The current research examined such spontaneously-formed, encoding-based inferences that had a particular content: The observed person was inferred to have behaved with a hostile intent (e.g., Dodge, 2006; Zelli, Cervone, & Heusmann, 1996).  For example, upon observing an individual slam a door in another person’s face, perceivers may spontaneously infer the door was slammed with the intent to frustrate or annoy the recipient of the behavior (i.e., with hostile intent).  The tendency for perceivers to spontaneously form hostile inferences is believed to reflect the influence of accessible aggressive cognitions and, once formed, these inferences are believed to increase aggressive behaviors (e.g., Anderson & Bushman, 2002; Wilkowski & Robinson, 2010).  Thus, understanding the cognitive processes that produce spontaneous hostile inferences is important for understanding the cognitions that are believed to contribute to aggression.  
+
+
+The current research had several goals in mind.  First, I wanted to conceptually replicate previous research that demonstrated that perceivers spontaneously form hostile inferences (e.g., Zelli, Heusmann, & Cervone, 1995; Zelli et al., 1996).  Second, I wanted to examine whether the tendency to form spontaneous hostile inferences was associated with subsequent aggressive behaviors and aggressive intentions. 
+
+
+Hostile attributions occur when exposure to a potentially hostile behavior (e.g., observing an individual pound his fist on a table) causes changes in attributional responses that are relevant to the construct hostility (e.g., judgments of that individual’s hostility).  The cognitive process through which the observed behavior causes a change in attributional responses presumably involves an inference that the behavior was done with hostile intent (i.e., a hostile inference).  When these hostile inferences are unintentionally formed, the inferences are said to have been formed spontaneously.  Notably from these definitions, hostile inferences are a component of a hypothesized cognitive process that causes hostile attributions.  Also notable from these definitions is that the spontaneity of the hostile inference is a characteristic of the conditions under which these inferences occur (i.e., without intent) and is not a characteristic of the cognitive process itself (e.g., there are several discrete cognitive processes that can occur spontaneously).  
+
+
+Individuals have a tendency to spontaneously infer trait information while encoding other persons’ trait-implicative behaviors (e.g., Carlston & Skowronski, 1994; McCarthy & Skowronski, 2014).  Spontaneous hostile inferences are believed to be a specific form of this generic tendency to spontaneously infer trait information: The specific form is that the inference reflects an inference about the observed individual’s hostility.  Because inferences that occur spontaneously during encoding is a very precise phenomenon, a great deal of the research on spontaneous trait inferences has been on ways to empirically demonstrate that this phenomenon, and not some other phenomenon, is occurring.  
+A trivially obvious example is illustrative to demonstrate the necessity of the appropriate methods for demonstrating spontaneous inferences.  Suppose there is a study where researchers have participants read a passage about an individual who behaves aggressively and then, later in the study, participants are asked to provide a rating of the described individual’s hostility.  Although the participants’ ratings of the described individual surely meet the definition of a hostile attribution (which was caused by a cognitive process that involved the formation of a hostile inference), these methods cannot allow the researcher to confidently claim that a hostile inference was spontaneously formed during encoding.  Why not?  Because these methods are ambiguous with respect to the conditions under which the cognitive process was presumed to occur.  It is plausible that participants spontaneously formed a hostile inference while encoding the behavior description and then accessed that already-formed inference when providing their rating.  However, it also is plausible that participants did not form an inference while encoding the behavior descriptions.  But when the researcher asked for a rating of hostility, participants may have recalled relevant information and formed an inference based on the recalled information.  These methods are unable to arbitrate between encoding-based inferences, recall-based inferences, or some other cognitive process. 
+
+
+Zelli et al…
+
+
+To date, the methods used to detect spontaneous hostile inferences has been suboptimal…
+For the abovementioned reasons, spontaneous inference researchers use indirect measures that allow one to assume that spontaneous inferences have occurred.  
+Indirect measures…
+
+
+This required the use of indirect measurement procedures that constrained the cognitive processes that could plausibly cause the observed effects.  The current studies use a misattribution procedure that is a modification of the Affect Misattribution Procedure (e.g., Payne et al., 2005).  
+
+
+
+Past studies used cued-recall paradigm…limited number of trials
+
+Prior to data collection, the methods used in the current research were approved by the human subjects review board at the authors’ home institution.  I report all data exclusions (if any), all manipulations, and all relevant measures in my research <!-- 21-word solution (Simmons, Nelson & Simonsohn, 2012; retrieved from http://ssrn.com/abstract=2160588) -->.  All data needed to replicate my analyses for the current studies can be acquired either by contacting the author or by visiting this project’s page on the Open Science Framework (osf.io/dsvgt).
+
+# Experiment 1
+
+##Participants
+
+## Methods
+###Sample size determination
+Given there was no previous published study on which to base a power analysis, I simply collected data from as many participants as possible in the Spring 2016 semester.  
+
+### Presting behavior descriptions
+Fifty behaviors that were believed to describe an aggressive behavior were generated by the researcher to be pretested.  Forty-nine MTurk workers then rated these behaviors using a scale with anchors -3 = not at all aggressive and +3 = extremely aggressive.  I selected the 10 behaviors that were above the mid-point of the scale and that had the highest variance for inclusion in the study.  Essentially, these 10 behaviors were viewed as somewhat aggressive overall, but also had variability in the extent to which individuals viewed those behaviors as aggressive.  As with previous research (e.g., Zelli, Huesmann, & Cervone, 1995), the interpretations of these ambiguously aggressive behaviors should be especially influenced by individual differences such as participants’ levels of trait aggression.  Example behaviors are “I said ‘what the hell are you looking at?’ to a person who smiled at me” and “I slammed the door on the person behind me.” 
+
+### Procedure
+After being greeted by the researcher and providing consent, participants completed Experiment 1a entirely on a computer in a small room of a laboratory.  Experiment 1a consisted of three stages: An exposure stage, a misattribution task stage, and a stage in which participants completed items that were believed to moderate their misattribution task performance.  
+During the exposure stage, participants first saw a screen of instructions that said they would view a series of stimuli in order to familiarize them with the types of stimuli they would see later in the experiment.  There were no instructions to form inferences or to try to memorize the information that was to be presented to them.  Once participants pressed a key indicating they understood the instructions, the computer then proceeded to display a series of photos (shown in the upper half of the screen) paired with a behavior description (shown in the lower half of the screen).  Each photo was randomly selected from a large pool of photos, each behavior was randomly selected from a list containing one of the pretested behaviors, and the order of the photo-behavior dyad was determined by the computer and was randomized for each participant.  Thus, the photo, behavior, photo-behavior dyad, and the order of the stimuli presentation were all randomized and could not systematically affect the overall study results.  Overall, participants viewed 20 photo-behavior dyads that were each shown for 7 seconds each: 10 photos were paired with an ambiguously aggressive behavior and 10 photos were paired with a non-aggressive behavior.  The presentation was controlled by the computer during the exposure stage, all participants needed was to attend to the stimuli on the screen.
+After completing the exposure stage and prior to completing the misattribution task participants completed a brief task intended to clear their working memory of information from the exposure stage.  This filler task consisted of classifying a series of nouns as either a “place” or a “thing” and took approximately 3 minutes for most participants to complete. 
+Next, participants completed the misattribution task.  Participants first viewed instructions that they would be quickly presented with Chinese ideographs, that some of the ideographs had a semantically “friendly” meaning and some had a semantically “aggressive” meaning, and their task was to intuit the meaning of the presented ideographs.  Their judgments of the meaning of the ideographs was made for each trial on a scale with anchors 1 = very friendly, 2 = friendly, 3 = aggressive, and 4 = very aggressive.  This rating scale is the same as in Payne et al. (2013).  For each trial, participants viewed a photo prior to the presentation of a Chinese ideograph.  Participants were told to try to ignore the photo and to focus on the ideographs.  In all, each trial of the misattribution task proceeded with a presentation of a photograph (75 ms), a blank screen (125 ms), a Chinese ideograph (100 ms), and a mask of black-and-white pixels with a rating scale showing the response options.  The next trial began once a response was made.  
+In all, participants completed 150 misattribution task trials: 50 trials with a photograph that was previously paired with an aggressive behavior, 50 trials with a photograph paired that was previously paired with a non-aggressive behavior, and 50 trials with a previously unseen photograph.  These latter trials were used to assess participants’ interpretations of the Chinese ideographs when the photographs were not previously paired with behavioral information.  I refer to these three trial types as hostile trials, neutral trials, and previously-unseen trials.  Also, each of the 10 photographs that were previously paired with ambiguously aggressive behaviors and each of the 10 photographs that were previously paired with the non-aggressive behaviors were each shown in 5 trials of the misattribution task (i.e., the 10 photos × 5 presentation = 50 misattribution task trials).  As with the exposure stage, the Chinese ideograph that was paired with each photograph and the order of the trials were completely randomized by the computer.  Thus, no idiosyncratic order or idiosyncratic photo-Chinese ideograph pairing could systematically alter the overall results.
+Next participants completed some measures that were used as moderators of their misattribution task performance.  First, immediately after completing the misattribution task participants answered one of two randomly-presented questions that assess participants’ retrospective awareness of their cognitive processes driving their misattribution task performance: Did you intentionally rate the faces instead of the Chinese characters? or Did the faces unintentionally influence the ratings of the Chinese characters?  Responses were made on a 1-5 scale with labels 1 = not at all, 2 = a little, 3 = sometimes, 4 = most of the time, and 5 = almost always.  The questions and rating scale are the same as in Payne et al. (2013).  
+Next, participants completed the Brief Aggression Questionnaire (BAQ; Webster et al., 2013), which is a questionnaire that uses a subset of twelve items from a scale developed by Buss and Perry (1992).  Example items are “given enough provocation, I may hit another person” and “I have trouble controlling my temper.”  Respondents rated each item on a scale of 1 (extremely uncharacteristic of me) to 5 (extremely characteristic of me).  The BAQ is correlated with the full-length trait aggression scale (r = 0.96) and has similar psychometric properties (e.g., Webster et al., 2013).   Levels of trait aggression are believed to indicate cognitive factors such as the chronic accessibility of aggressive cognitions that may moderate participants’ misattribution task performance.  In the current study, the internal reliability estimates of the BAQ was acceptable (α = .74).  
+Finally, participants reported demographic information.  Once participants were completed, the researcher debriefed the participants and compensated them with credit towards a course research requirement. 
+
+
+### Data analysis
+We used `r cite_r("r-references.bib")` for all our analyses.
+
+
+## Results
+###Misattribution task performance
+
+###Infuence items
+
+#Experiment 2
+##Participants
+
+## Methods
+Prior to data collection, the methods used in the current research were approved by the human subjects review board at the authors’ home institution.  I report all data exclusions (if any), all manipulations, and all relevant measures in my research <!-- 21-word solution (Simmons, Nelson & Simonsohn, 2012; retrieved from http://ssrn.com/abstract=2160588) -->.  All data needed to replicate my analyses for the current studies can be acquired either by contacting the author or by visiting this project’s page on the Open Science Framework (osf.io/dsvgt).  
+
+###Sample size determination
+Given there was no previous published study on which to base a power analysis, I simply collected data from as many participants as possible in the Spring 2016 semester.  
+
+### Presting behavior descriptions
+
+###Procedure
+
+##Results
+
+
+#Experiment 3
+##Participants
+
+## Methods
+###Sample size determination
+Given there was no previous published study on which to base a power analysis, I simply collected data from as many participants as possible in the Spring 2017 semester.  
+
+### Presting behavior descriptions
+
+###Procedure
+
+##Results
+
+# Discussion
+
+
+\newpage
+
+# References
+```{r create_r-references}
+r_refs(file = "r-references.bib")
+```
+
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
